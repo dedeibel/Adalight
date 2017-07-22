@@ -26,7 +26,7 @@
 
 import processing.serial.*;
 
-int N_LEDS = 25; // Max of 65536
+int N_LEDS = 240; // Max of 65536
 
 void setup()
 {
